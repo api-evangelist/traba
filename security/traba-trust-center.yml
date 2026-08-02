@@ -1,0 +1,16 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+url: https://app.drata.com/trust/8764b93f-6186-4f43-b1e0-7f1d8ce9a053
+platform: Drata
+certifications: []
+evidence:
+  - source: https://traba.work/
+    kind: homepage-footer-link
+    label: Security and Compliance
+notes: >-
+  Traba links a Drata-hosted trust center ("Security and Compliance") from the
+  traba.work footer. The Drata page itself is behind a Cloudflare JS challenge
+  (HTTP 403 to non-browser clients), so the specific certifications listed
+  there could not be extracted; none are claimed here. No trust.traba.work or
+  security.traba.work host exists.

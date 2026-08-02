@@ -1,0 +1,35 @@
+generated: '2026-07-21'
+method: searched
+hosts:
+  - host: https://traba.work
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /llms.txt
+        status: 200
+        content_type: text/plain;charset=utf-8
+        file: ../llms/traba-llms.txt
+        note: Real published llms.txt (not a catch-all); saved verbatim in llms/.
+  - host: https://app.traba.work
+    documents:
+      - path: /.well-known/security.txt
+        status: 200
+        content_type: text/html
+        note: SPA catch-all — returns the app HTML shell, not a real security.txt. Treated as absent.
+      - path: /.well-known/openid-configuration
+        status: 200
+        content_type: text/html
+        note: SPA catch-all — returns the app HTML shell, not a real OIDC discovery document. Treated as absent.
+notes: >-
+  No API host exists (api.traba.work, docs.traba.work, developer(s).traba.work,
+  status.traba.work, trust.traba.work all fail DNS). Traba publishes no
+  well-known discovery documents; the only real hit is /llms.txt on the
+  marketing site.

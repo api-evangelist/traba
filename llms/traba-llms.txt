@@ -1,0 +1,25 @@
+# Traba
+
+> Traba is the AI operating layer for the industrial supply chain. We pair vetted, reliable light-industrial staffing — for production plants, warehouses, and distribution centers — with Neo, an AI intelligence layer that unifies operational data and automates workflows. Founded in 2021, headquartered in New York City.
+
+## Products
+
+- [Staffing solutions](https://traba.work/business): Vetted, consistent light-industrial workers with a 98% show rate and 1–2 day average time to fill.
+- [Neo](https://traba.work/neo): The AI intelligence layer for supply chain operations. Unifies live data across WMS, ERP, HRIS, TMS, and payroll systems; surfaces root causes; recommends actions with cost and SLA impact calculated; automates approved workflows. Saves up to 8 hours per employee weekly, lifts site-level profitability up to 15%, and cuts unplanned overtime up to 25%.
+
+> "Neo is the calm in the storm that takes manual work off my team, and the eye in the sky that watches my operation, gets ahead of problems, and surfaces things I missed. With Neo, I can now scale my business profitably with confidence." — Cody Branham, Founder of Ship Smarter LLC
+
+## Company
+
+- [About Traba](https://traba.work/company/about)
+- [How Traba uses AI](https://traba.work/company/ai-policy)
+- [Case studies](https://traba.work/resources/case-studies)
+- [Customer testimonials](https://traba.work/resources/customer-testimonials)
+- [Business FAQ](https://traba.work/business/business-faq)
+
+## For workers
+
+- [Find industrial shifts](https://traba.work/workers)
+- [Apply now](https://traba.work/apply-now)
+
+Note: Traba (traba.work) is not affiliated with Trava (trade compliance) or Traza (procurement automation).
