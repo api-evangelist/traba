@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Traba is a company surfaced as a portfolio company of founders-fund and added to the API Evangelist network as a stub for enrichment. Sector: marketplace. This profile is a lead awaiting the enrichment pipeline.
+Traba is a New York City-based staffing marketplace and AI operating layer for the industrial supply chain, founded in 2021 and backed by Founders Fund. Traba connects vetted, high-reliability light-industrial workers with production plants, warehouses, and distribution centers, and pairs that staffing marketplace with Neo, an AI intelligence layer that unifies live operational data across WMS, ERP, HRIS, TMS, and payroll systems, surfaces root causes, and automates approved supply chain workflows. Traba publishes no public developer API.
 
-Backed by: founders-fund — https://traba.work
+**Areas:** Company · Marketplace · Staffing · Workforce · Supply Chain · Logistics · Warehouse · Artificial Intelligence
+
+## Traba on APIs.io
+
+Everything profiled for Traba is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/traba/](https://apis.io/providers/traba/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Traba Domain Security](https://apis.io/security/traba/traba-domain-security/)
+- [Traba Trust Center](https://apis.io/security/traba/traba-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://traba.work)
+- [Support](https://help.traba.work/)
+- [Blog](https://traba.work/blog)
+- [Compliance](https://app.drata.com/trust/8764b93f-6186-4f43-b1e0-7f1d8ce9a053)
+- [Terms of service](https://traba.work/terms-of-use)
+- [Privacy policy](https://traba.work/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 16.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 43.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/traba/](https://apis.io/providers/traba/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Traba: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/traba/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
